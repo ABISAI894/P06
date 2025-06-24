@@ -1,0 +1,66 @@
+<html>
+</head>
+<title> Himno nacional mexicano
+</title>
+<link rel="icon" href="pictures/mx.png" type="image/png">
+</head>
+<body bgcolor=3113da>
+<img src="pictures/mexico.jpg" alt="bandera"
+width="100" heigth="100">
+<center><p><b><font face="ALGERIAN"COLOR=f0df0d size=7>HIMNO NACIONAL MEXICANO</font><img src="pictures/mexico.jpg" alt="bandera"
+width="100" heigth="100">
+</b></p>
+</p><font face="Calibri"COLOR=00f27b size=4>Mexicanos, al grito de guerra<br> 
+el acero a prestad y el bridón,<br> 
+y retiemble en sus centros la tierra<br> 
+al sonoro rugir del cañón. </p>
+
+</p>Ciña ¡oh Patria! tus sienes de oliva<br> 
+de la paz el arcángel divino,<br> 
+que en el cielo tu eterno destino<br> 
+por el dedo de Dios se escribió.</p>
+ 
+</p>Más si osare un extraño enemigo<br> 
+profanar con su planta tu suelo,<br> 
+piensa ¡oh Patria querida! que el cielo<br> 
+un soldado en cada hijo te dio.</p> 
+
+</p>¡Guerr! ¡Guerra sin tregua al que intente<br> 
+de la patria manchar los blasones!<br> 
+¡Guerra, guerra! Los patrios pendones <br>
+en las olas de sangre empapad.</p>
+
+</p>¡Guerra, guerra! En el monte, en el valle<br>
+los cañones horrísonos truenen<br> 
+y los ecos sonoros resuenen<br> 
+con las voces de ¡Unión! ¡Libertad!</p>
+
+</p>Antes patria, que inermes tus hijos <br>
+bajo el yugo su cuello dobleguen,<br> 
+tus campiñas con sangre se rieguen,<br> 
+sobre sangre se estampe su pie.</p>
+ 
+</p>Y tus templos, palacios y torres<br> 
+se derrumben con hórrido estruendo,<br> 
+y sus ruinas existan diciendo:<br> 
+de mil héroes la patria aquí fue.</p>
+
+</p>¡Patria! ¡Patria! Tus hijos te juran<br> 
+exhalar en tus aras su aliento,<br> 
+si el clarín con su bélico acento<br> 
+los convoca a lidiar con valor.</p>
+ 
+</p>¡Para ti las guirnaldas de oliva!<br> 
+¡Un recuerdo para ellos de gloria!<br> 
+¡Un laurel para ti de victoria! <br>
+¡Un sepulcro para ellos de honor!</p> 
+
+</p>Mexicanos, al grito de guerra<br> 
+el acero a prestad y el bridón,<br> 
+y retiemble en sus centros la tierra <br>
+al sonoro rugir del cañón.</p></center></font>
+
+</body>
+<img src="pictures/mexico.jpg" alt="bandera"
+width="200" heigth="200">
+</html>   
